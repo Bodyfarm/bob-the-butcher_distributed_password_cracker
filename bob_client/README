@@ -1,0 +1,13 @@
+Bob the Butcher
+
+Converting a JTR plugin to Bob:
+
+* Change headers
+* choose a unique format ID
+* change fmt_tests to s_format_tests
+* keep only the binary_hash and get_hash function that return a full byte
+* the "binary" function must return a malloced buffer
+* remove cmp_exact
+* include usernames to password tests
+* change fmt_main to s_format
+* change the structure .. (do not forget the set_username)

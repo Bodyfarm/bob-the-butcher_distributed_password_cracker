@@ -1,0 +1,21 @@
+v0.7.1
+	* works better on solaris
+	* corrected major bugs in some ciphers
+	* there is still a bug with DES on solaris (and probably others)
+
+v0.6.9
+	* Corrected the stupid bug in bench()
+	* The python server now works along with a mysql server
+	* Lots of work is required on the SQL side so that it just works, but
+	it's just a prototype anyway
+
+20/04/2006
+  * Tons of stuff, including python server, fixing the archive so that it
+  compiles on amd64 ...
+
+16/01/2006
+  * Added RC4 encryption with PSK between server and cracker.
+  * Added RC4 encryption with PSK between server and admin.
+
+14/01/2006 
+  * Added preliminary AMD64 version.

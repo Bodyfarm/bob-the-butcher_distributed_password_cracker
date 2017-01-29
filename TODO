@@ -1,0 +1,8 @@
+Do not insert duplicate passords (filter on the admin side ?)
+Create GTK interface (hum)
+Update all ciphers
+Move the password creation to a shared zone (for admin and client)
+Restore old clients pruning, and fix all the problems that are related
+Make the bob_admin work for something else than localhost
+
+There should be bugs when many passwords are transfered.
