@@ -1,6 +1,9 @@
 # bob-the-butcher distributed password cracker
 bob-the-butcher archive.
 
+#FORKME , take over development, else its a "Vintage" Clasic Password Cracker. 
+may be of use to someone , for study and or if another dev wants to improve. 
+
 http://btb.banquise.net
 http://btb.banquise.net/bin/bob-the-butcher-0.7.1.tar.gz
 http://www.openwall.com/lists/john-users/2009/06/11/2
